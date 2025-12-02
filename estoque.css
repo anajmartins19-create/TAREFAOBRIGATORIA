@@ -1,0 +1,60 @@
+body {
+    background: #f4f6fa;
+    font-family: "Poppins", sans-serif;
+    }
+    
+    h2 {
+    font-weight: 700;
+    color: #0a0f24;
+    }
+    
+    input.form-control {
+    border-radius: 14px;
+    padding: 12px;
+    }
+    
+    .table {
+    border-radius: 14px;
+    overflow: hidden;
+    }
+    
+    .table thead {
+    background: #0a0f24 !important;
+    }
+    
+    .table-hover tbody tr:hover {
+    background: #e7ecf6;
+    }
+    
+    .btn {
+    border-radius: 10px;
+    font-weight: 500;
+    }
+    
+    .btn-warning {
+    background: #d4a017;
+    border: none;
+    }
+    
+    .btn-warning:hover {
+    background: #b98a13;
+    }
+    
+    .btn-danger {
+    background: #c0392b;
+    border: none;
+    }
+    
+    .btn-danger:hover {
+    background: #992d22;
+    }
+    
+    .btn-primary {
+    background: #0a0f24;
+    border: none;
+    }
+    
+    .btn-primary:hover {
+    background: #13254b;
+    }
+    

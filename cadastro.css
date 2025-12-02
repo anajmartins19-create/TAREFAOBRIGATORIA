@@ -1,0 +1,50 @@
+body {
+    background: #fafbfe;
+    font-family: "Poppins", sans-serif;
+    }
+    
+    .container {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 18px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    }
+    
+    label {
+    font-weight: 600;
+    color: #0a0f24;
+    }
+    
+    .form-control,
+    .form-select {
+    border-radius: 12px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    }
+    
+    .btn-success {
+    background: #1e8449;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 20px;
+    }
+    
+    .btn-success:hover {
+    background: #166838;
+    }
+    
+    .btn-secondary {
+    border-radius: 12px;
+    padding: 10px 20px;
+    }
+    
+    .btn-danger {
+    background: #c0392b;
+    border: none;
+    border-radius: 12px;
+    }
+    
+    .btn-danger:hover {
+    background: #992d22;
+    }
+    
